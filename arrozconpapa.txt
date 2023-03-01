@@ -95,3 +95,6 @@ footer
         </div>
     </div>
 </footer>
+
+
+https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.css Esto no se puede perder xd
